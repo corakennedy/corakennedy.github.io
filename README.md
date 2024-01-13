@@ -26,8 +26,8 @@
     - Served as integral member of design team focused on design and development of up-to-date HD video system (to replace outdated, one-time-use cassette tapes), providing better quality video to customers, improving turnaround time on video editing, and enabling easier transporting based on compact design.
         - Through research on multiple vendors, found an up-to-date instrument that will provide all necessary data required to capture while having an instrument that is serviceable and modern.
         - Focus on reducing overall costs due to parts availability and improving consistency between one employee and another because all personnel will be operating within the same scope of work.
-    - Quantify and acquire data from complex, interrelated phenomena, and functions, utilizing new procedures, applying new techniques and methods for specific specialized functions as needed.
-    - Conduct studies and analyses in evaluation of proposed new or replacement equipment and systems. Review and coordinate approval of technical data submitted by contractors and other organizations within YTC based upon conformance with test support operations and test plans.
+- Quantify and acquire data from complex, interrelated phenomena, and functions, utilizing new procedures, applying new techniques and methods for specific specialized functions as needed.
+- Conduct studies and analyses in evaluation of proposed new or replacement equipment and systems. Review and coordinate approval of technical data submitted by contractors and other organizations within YTC based upon conformance with test support operations and test plans.
 
 ### Projects
 
