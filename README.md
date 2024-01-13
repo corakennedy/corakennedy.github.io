@@ -9,7 +9,7 @@
 
 ### Work Experience
 **Photo Optical Imaging Supervisor, TRAX International Corporation**
-- Administer staff training requirements to improve processes, team skills and workplace safety, contributing to improve performance, employee promotion and retention.
+- Administer and develop training requirements to improve processes, team skills and workplace safety, contributing to improve performance, employee promotion and retention.
     -Advise, train, and coach personnel as subject matter expert (SME) within activity on technical issues associated with optical systems, and aviation and ground-based instrumentation, as applicable.
 - Drives innovation in instrumentation data acquisition systems and business intelligence, that focuses on discovering patterns, trends, and insights. By analyzing successful capturing of data versus failures in data sets directly related to support of test execution.
 - Collaborates with cross-functional team in the development, testing, and usableness of the data architecture for the Instrumentation Asset management that utilizes a structured database to analyze the usage of instrumentation assets.
@@ -30,4 +30,5 @@
 - Conduct studies and analyses in evaluation of proposed new or replacement equipment and systems. Review and coordinate approval of technical data submitted by contractors and other organizations within YTC based upon conformance with test support operations and test plans.
 
 ### Projects
+
 
